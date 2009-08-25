@@ -1,0 +1,6 @@
+Revision history for Perl extension Sub::Prototype::Introspect.
+
+0.00_01  Mon Aug 24 14:22:23 2009
+	- original version; created by h2xs 1.23 with options
+		-ABO --use-new-tests Sub::Prototype::Introspect
+
